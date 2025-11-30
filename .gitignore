@@ -1,0 +1,22 @@
+# ----------------------------------------------------------
+
+
+# --- Python / FastAPI ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.vscode/
+
+# --- Flutter ---
+/app_flutter/build/
+/app_flutter/.dart_tool/
+/app_flutter/.flutter-plugins
+/app_flutter/.flutter-plugins-dependencies
+/app_flutter/.pub-cache/
+/app_flutter/.pub/
+
+# --- Mac/Windows basura ---
+.DS_Store
+Thumbs.db
